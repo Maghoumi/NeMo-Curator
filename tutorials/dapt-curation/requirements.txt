@@ -1,1 +1,3 @@
+arxiv
 cchardet
+unstructured[pdf]
